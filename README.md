@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TRDhananjaya/TRDhananjaya/main/logo.gif" width="55%" alt="Logo"/>
+  <img src="https://raw.githubusercontent.com/TRDhananjaya/TRDhananjaya/main/logoBanner.png" width="55%" alt="Logo"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Tharaka Dhananjaya</h1>
